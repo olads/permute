@@ -1,0 +1,2 @@
+# permute
+To permutate numbers
